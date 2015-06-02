@@ -1,4 +1,4 @@
-__author__='benjy'
+__author__='benjyp'
 
 import gspread
 import os
