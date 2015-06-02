@@ -1,0 +1,2 @@
+name,generation,_attribute_set,server_type,featured,manufacturer,price,cpu_quantity,cpu_speed,cpu_cores,processor,hdd1_quantity,hdd1_capacity,hdd_size,hdd_tech,raid,ram_quantity,ram_technology,drive,power_supply,warranty,weight
+Proliant ML350 G6,G6,Server,Tower,No,HP,1495,2,2.66GHz,Six,Intel,2,2TB,"3.5""",SATA,Yes,32GB,DDR3,Optical,Redundant,1 Year,65

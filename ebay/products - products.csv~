@@ -1,0 +1,109 @@
+name,generation,_attribute_set,server_type,featured,manufacturer,price,cpu_quantity,cpu_speed,cpu_cores,processor,hdd1_quantity,hdd1_capacity,hdd_size,hdd_tech,raid,ram_quantity,ram_technology,drive,power_supply,warranty,weight
+Aspire V5-571-6499 Laptop,,Laptop,,No,Acer,605,,1.7GHz,Quad,Intel,,750GB,"2.5""",SATA,,8GB,,,,90 Day,7
+Inspiron 15R 7520 *Special Edition* Laptop,,Laptop,,No,Dell,889,,2.5GHz,Quad,Intel,,750GB,"2.5""",SATA,,6GB,,,,90 Day,7
+Inspiron 15R N5010 Laptop,,Laptop,,No,Dell,689,,2.4GHz,Dual,Intel,,320GB,"2.5""",SATA,,3GB,,,,90 Day,7
+Latitude E4310 Laptop,,Laptop,,No,Dell,685,,2.66GHz,Quad,Intel,,250GB,"2.5""",SATA,,8GB,,,,90 Day,7
+Latitude E5440,,Laptop,,No,Dell,685,,1.9GHz,Quad,Intel,,320GB,"2.5""",SATA,,4GB,,,,1 Year,7
+Latitude E6230,,Laptop,,No,Dell,688,,2.6GHz,Quad,Intel,,500GB,"2.5""",SATA,,8GB,,,,1 Year,7
+Latitude E6400 Laptop,,Laptop,,No,Dell,487,,2.53GHz,Dual,Intel,,80GB,"2.5""",SATA,,2GB,,,,90 Day,7
+Latitude E6430,,Laptop,,No,Dell,385,,2.6GHz,Quad,Intel,,500GB,"2.5""",SATA,,4GB,,,,1 Year,7
+Latitude E6530,,Laptop,,No,Dell,577,,2.6GHz,Quad,Intel,,320GB,"2.5""",SATA,,4GB,,,,1 Year,7
+Latitude XT2 Laptop,,Laptop,,No,Dell,1075,,1.6GHz,Dual,Intel,,128GB,"2.5""",SATA,,4GB,,,,90 Day,7
+Pavilion DV6-6047cl Entertainment Laptop,,Laptop,,No,HP,1190,,2.0GHz,Quad,Intel,,1TB,"2.5""",SATA,,8GB,,,,90 Day,7
+Pavilion DV6T Laptop,,Laptop,,No,HP,789,,2.4GHz,Quad,Intel,,750GB,"2.5""",SATA,,8GB,,,,90 Day,7
+Studio 1747 Laptop,,Laptop,,No,Dell,699,,1.6GHz,Quad,Intel,,500GB,"2.5""",SATA,,4GB,,,,90 Day,7
+ThinkPad T410 Laptop,,Laptop,,No,Lenovo,665,,2.4GHz,Quad,Intel,,320GB,"2.5""",SATA,,4GB,,,,90 Day,7
+ProLiant ML350 G5 Dual-Core,G5,Server,Tower,No,HP,695,2,2.66GHz,Dual,Intel,4,250GB,"3.5""",SATA,Yes,8GB,DDR2,Optical,Single,1 Year,65
+ProLiant ML350 G5 Quad-Core,G5,Server,Tower,No,HP,685,2,2.5GHz,Quad,Intel,4,2TB,"3.5""",SATA,Yes,32GB,DDR2,Optical,Single,1 Year,65
+ProLiant DL360 G5 - Dual-Core,G5,Server,Rack - 1U,No,HP,295,2,2.33GHz,Dual,Intel,2,146GB,"2.5""",SAS,Yes,4GB,DDR2,Optical,Redundant,1 Year,35
+ProLiant DL360 G5 - Quad-Core,G5,Server,Rack - 1U,No,HP,295,2,2.53GHz,Quad,Intel,2,146GB,"2.5""",SAS,Yes,4GB,DDR2,Optical,Redundant,1 Year,35
+ProLiant DL380 G5 - Dual-Core,G5,Server,Rack - 2U,No,HP,455,2,2.33GHz,Dual,Intel,2,146GB,"2.5""",SAS,Yes,4GB,DDR2,Optical,Redundant,1 Year,65
+ProLiant DL380 G5 - Quad-Core,G5,Server,Rack - 2U,No,HP,595,2,2.53GHz,Quad,Intel,2,146GB,"2.5""",SAS,Yes,4GB,DDR2,Optical,Redundant,1 Year,65
+ProLiant DL160 G6,G6,Server,Rack - 1U,No,HP,995,2,2.26GHz,Quad,Intel,2,146GB,"3.5""",SAS,Yes,16GB,DDR3,Optical,Redundant,3 Year,35
+ProLiant DL180 G6,G6,Server,Rack - 1U,No,HP,999,2,2.26GHz,Quad,Intel,4,146GB,"2.5""",SAS,Yes,16GB,DDR3,Optical,Single,3 Year,50
+"ProLiant DL360 G6 - 8x 2.5"" Chassis",G6,Server,Rack - 1U,No,HP,755,2,2.26GHz,Quad,Intel,2,146GB,"2.5""",SAS,Yes,16GB,DDR3,Optical,Single,3 Year,35
+Proliant DL370 G6,G6,Server,Rack - 4U+,No,HP,1195,2,2.26GHz,Dual,Intel,6,146GB,"2.5""",SAS,Yes,32GB,DDR3,Optical,Redundant,3 Year,70
+ProLiant DL380 G6,G6,Server,Rack - 2U,No,HP,875,2,2.26GHz,Quad,Intel,2,146GB,"2.5""",SAS,Yes,16GB,DDR3,Optical,Single,3 Year,65
+ProLiant DL380 G6 NAS Server,G6,Server,Rack - 2U,Yes,HP,1450,2,2.26GHz,Quad,Intel,8,500GB,"2.5""",SATA,Yes,16GB,DDR3,Optical,Redundant,3 Year,65
+Proliant ML110 G6,G6,Server,Tower,No,HP,395,1,2.4GHz,Quad,Intel,2,146GB,"3.5""",SAS,Yes,8GB,DDR3,Optical,Single,1 Year,35
+ProLiant ML350 G6,G6,Server,Tower,No,HP,1295,2,2.26GHz,Quad,Intel,4,1TB,"3.5""",SATA,Yes,16GB,DDR3,Optical,Single,1 Year,55
+Proliant DL360 G7,G7,Server,Rack - 1U,Yes,HP,2455,2,2.6GHz,Six,Intel,4,500GB,"2.5""",SATA,Yes,24GB,DDR3,Optical,Redundant,3 Year,40
+Proliant DL380 G7,G7,Server,Rack - 2U,Yes,HP,2424,2,2.6GHz,Six,Intel,8,300GB,"2.5""",SAS,Yes,24GB,DDR3,Optical,Redundant,3 Year,65
+ProLiant DL580 G7,G7,Server,Rack - 4U+,No,HP,4995,4,2.26GHz,Eight,Intel,4,256GB,"2.5""",SAS,Yes,128GB,DDR,Optical,Single,3 Year,80
+Proliant DL585 G7,G7,Server,Rack - 4U+,No,HP,3350,2,2.4GHz,Twelve,AMD,8,146GB,"2.5""",SAS,Yes,64GB,DDR3,Optical,Four,3 Year,100
+Proliant DL360 G8,G8,Server,Rack - 1U,No,HP,3777,2,2.4GHz,Quad,Intel,2,1TB,"2.5""",SATA,Yes,8GB,DDR3,Optical,Redundant,3 Year,40
+Proliant DL380 G8,G8,Server,Rack - 2U,No,HP,5454,2,1.9GHz,Six,Intel,2,1TB,"2.5""",SAS,Yes,24GB,DDR3,Optical,Redundant,3 Year,50
+Proliant DL380P G8,G8,Server,Rack - 2U,No,HP,5995,2,1.9GHz,Six,Intel,8,450GB,"2.5""",SAS,Yes,96GB,DDR3,Optical,Redundant,3 Year,60
+Proliant DL580 G8,G8,Server,Rack - 4U+,No,HP,34500,2,2.6GHz,Twelve,Intel,4,900GB,"2.5""",SAS,Yes,128GB,DDR3,Optical,Redundant,3 Year,100
+PowerEdge R300,Generation 10,Server,Rack - 1U,No,Dell,395,1,2.83GHz,Quad,Intel,1,1TB,"3.5""",SATA,Yes,8GB,DDR2,Optical,Single,1 Year,45
+PowerEdge R900,Generation 10,Server,Rack - 4U+,No,Dell,667,4,2.9GHz,Dual,Intel,2,146GB,"3.5""",SAS,Yes,32GB,DDR2,Optical,Redundant,1 Year,70
+PowerEdge T300,Generation 10,Server,Tower,No,Dell,579,1,2.83GHz,Quad,Intel,3,1TB,"3.5""",SATA,None,16GB,DDR2,Optical,Single,1 Year,45
+PowerEdge R210,Generation 11,Server,Rack - 1U,No,Dell,359,1,2.66GHz,Quad,Intel,2,500GB,"3.5""",SATA,None,8GB,DDR3,Optical,Single,1 Year,40
+PowerEdge R410,Generation 11,Server,Rack - 2U,No,Dell,850,2,2.26GHz,Quad,Intel,2,146GB,"3.5""",SATA,Yes,16GB,DDR3,Optical,Single,1 Year,45
+PowerEdge R415,Generation 11,Server,Rack - 1U,No,Dell,1450,2,2.6GHz,Quad,AMD,2,2TB,"3.5""",SATA,Yes,16GB,DDR3,Optical,Single,3 Year,45
+"PowerEdge R510 8x 3.5""",Generation 11,Server,Rack - 2U,No,Dell,1885,2,2.26GHz,Quad,Intel,4,146GB,"3.5""",SATA,Yes,32GB,DDR3,Optical,Redundant,3 Year,60
+"PowerEdge R515 - 12 x 3.5"" Chassis",Generation 11,Server,Rack - 2U,No,Dell,2355,2,2.3GHz,Six,AMD,2,500GB,"3.5""",SATA,Yes,32GB,DDR3,Optical,Redundant,3 Year,45
+PowerEdge R610,Generation 11,Server,Rack - 1U,No,Dell,755,2,2.26GHz,Quad,Intel,2,146GB,"2.5""",SATA,Yes,16GB,DDR3,Optical,Single,3 Year,45
+"PowerEdge R710 - 6 x 3.5"" Chassis",Generation 11,Server,Rack - 2U,Yes,Dell,795,2,2.26GHz,Quad,Intel,2,146GB,"3.5""",SAS,Yes,16GB,DDR3,Optical,Single,3 Year,70
+"Poweredge R710- 8 x 2.5"" Chassis",Generation 11,Server,Rack - 2U,No,Dell,875,2,2.26GHz,Quad,Intel,2,146GB,"2.5""",SATA,Yes,16GB,DDR3,Optical,Single,3 Year,70
+PowerEdge R715,Generation 11,Server,Rack - 2U,No,Dell,2255,2,2.1GHz,Quad,AMD,6,146GB,"3.5""",SAS,H700,32GB,DDR3,Optical,Redundant,3 Year,70
+PowerEdge R810,Generation 11,Server,Rack - 2U,Yes,Dell,2995,2,2.0GHz,Six,Intel,6,146GB,"3.5""",SAS,Yes,128GB,DDR2,Optical,Single,3 Year,70
+PowerEdge R910,Generation 11,Server,Rack - 4U+,No,Dell,4555,4,2.3GHz,Eight,Intel,3,450GB,"3.5""",SATA,Yes,128GB,DDR2,Optical,Redundant,3 Year,70
+PowerEdge T110,Generation 11,Server,Tower,No,Dell,545,1,2.53GHz,Quad,Intel,2,1TB,"3.5""",SATA,Yes,8GB,DDR3,Optical,Single,3 Year,45
+PowerEdge T310,Generation 11,Server,Tower,Yes,Dell,1375,1,2.66GHz,Quad,Intel,2,1TB,"3.5""",SATA,Yes,16GB,DDR3,Optical,Single,3 Year,55
+PowerEdge T410,Generation 11,Server,Tower,Yes,Dell,1775,2,2.66GHz,Quad,Intel,4,1TB,"3.5""",SATA,Yes,16GB,DDR3,Optical,Redundant,3 Year,60
+PowerEdge T610,Generation 11,Server,Tower,Yes,Dell,2575,2,2.66GHz,Quad,Intel,6,2TB,"3.5""",SATA,Yes,32GB,DDR3,Optical,Redundant,3 Year,77
+PowerEdge T710,Generation 11,Server,Tower,No,Dell,2285,2,2.66GHz,Quad,Intel,4,1TB,"3.5""",SATA,Yes,16GB,DDR3,Optical,Redundant,3 Year,78
+PowerEdge R220,Generation 12,Server,Rack - 1U,No,Dell,995,1,3.1GHz,Quad,Intel,2,500GB,"3.5""",SATA,Yes,12GB,DDR3,Optical,Single,3 Year,20
+PowerEdge R320,Generation 12,Server,Rack - 1U,Yes,Dell,3085,1,2.2GHz,Six,Intel,8,300GB,"2.5""",SAS,Yes,16GB,DDR3,DVD,Redundant,3 Year,40
+PowerEdge R420,Generation 12,Server,Rack - 1U,No,Dell,1975,1,2.2GHz,Quad,Intel,2,2TB,"3.5""",SATA,H310,12GB,DDR3,Optical,Single,3 Year,45
+PowerEdge R520,Generation 12,Server,Rack - 2U,Yes,Dell,3550,1,1.8GHz,Quad,Intel,8,2TB,"3.5""",SATA,H310,12GB,DDR3,Optical,Single,3 Year,45
+PowerEdge R620,Generation 12,Server,Rack - 1U,No,Dell,3977,2,2.0GHz,Six,Intel,2,300GB,"3.5""",SAS,H310,32GB,DDR3,Optical,Redundant,3 Year,45
+"PowerEdge R720 - 16 x 2.5"" Chassis",Generation 12,Server,Rack - 2U,Yes,Dell,4995,2,2.66GHz,Quad,Intel,16,500GB,"2.5""",SATA,Yes,64GB,DDR2,Optical,Redundant,3 Year,65
+"PowerEdge R720 - 8 x 3.5"" Chassis",Generation 12,Server,Rack - 2U,No,Dell,3950,2,2.0GHz,Six,Intel,8,600GB,"3.5""",SATA,Yes,16GB,DDR3,Optical,Single,3 Year,55
+PowerEdge T20,Generation 12,Server,Tower,Yes,Dell,995,1,3.2GHz,Quad,Intel,2,2TB,"3.5""",SATA,Yes,8GB,DDR3,Optical,Single,3 Year,20
+PowerEdge T320,Generation 12,Server,Tower,No,Dell,1997,1,2.2GHz,Quad,Intel,2,500GB,"3.5""",SATA,Yes,16GB,DDR3,Optical,Single,3 Year,55
+PowerEdge T420,Generation 12,Server,Tower,No,Dell,3247,2,2.4GHz,Quad,Intel,3,146GB,"3.5""",SAS,Yes,8GB,DDR3,Optical,Redundant,3 Year,55
+PowerEdge T620,Generation 12,Server,Tower,No,Dell,2765,2,2.5GHz,Quad,Intel,3,250GB,"3.5""",SATA,Yes,16GB,DDR3,Optical,Redundant,3 Year,90
+PowerEdge 2650,Generation 6,Server,Rack - 2U,No,Dell,385,2,3.06GHz,Single,Intel,5,36GB,"3.5""",SCSI,Yes,4GB,DDR2,Optical,Redundant,1 Year,55
+PowerEdge 1750,Generation 7,Server,Rack - 1U,No,Dell,325,2,3.06GHz,Single,Intel,3,36GB,"3.5""",SCSI,None,4GB,DDR2,Optical,Redundant,6 Months,35
+PowerEdge 1800,Generation 8,Server,Tower,No,Dell,825,2,3.0GHz,Dual,Intel,2,1TB,"3.5""",SATA,Yes,8GB,DDR2,Optical,Single,1 Year,75
+PowerEdge 1800,Generation 8,Server,Tower,No,Dell,695,2,3.0GHz,Single,Intel,2,500GB,"3.5""",SATA,Yes,4GB,DDR2,Optical,Single,1 Year,75
+PowerEdge 1850 - Enterprise Class,Generation 8,Server,Rack - 1U,No,Dell,350,2,3.8GHz,Single,Intel,2,36GB,"3.5""",SCSI,None,4GB,DDR2,Optical,Single,6 Months,50
+PowerEdge 2800,Generation 8,Server,Rack - 4U+,No,Dell,825,2,3.6GHz,Single,Intel,3,300GB,"3.5""",SCSI,Yes,4GB,DDR2,Optical,Redundant,1 Year,100
+PowerEdge 2800,Generation 8,Server,Tower,No,Dell,695,2,3.2GHz,Single,Intel,3,146GB,"3.5""",SCSI,Yes,4GB,DDR2,Optical,Redundant,1 Year,100
+PowerEdge 2850,Generation 8,Server,Rack - 2U,No,Dell,395,2,3.6GHz,Single,Intel,6,36GB,"3.5""",SCSI,Yes,6GB,DDR2,Optical,Redundant,1 Year,70
+PowerEdge 1900 Gen I,Generation 9,Server,Tower,No,Dell,595,2,2.33GHz,Dual,Intel,4,250GB,"3.5""",SATA,Yes,8GB,DDR2,Optical,Single,1 Year,95
+PowerEdge 1900 Gen II,Generation 9,Server,Tower,No,Dell,855,2,2.66GHz,Quad,Intel,4,1TB,"3.5""",SATA,Yes,16GB,DDR2,Optical,Single,1 Year,95
+PowerEdge 1950 Gen II,Generation 9,Server,Rack - 1U,No,Dell,545,2,2.33GHz,Quad,Intel,2,146GB,"3.5""",SAS,Yes,4GB,DDR2,Optical,Redundant,1 Year,45
+PowerEdge 1950 Gen III,Generation 9,Server,Rack - 1U,No,Dell,795,2,3.0GHz,Quad,Intel,2,1TB,"3.5""",SATA,Yes,16GB,DDR2,Optical,Redundant,1 Year,45
+PowerEdge 2900 Rackmount Gen II,Generation 9,Server,Rack - 4U+,No,Dell,995,2,2.33GHz,Quad,Intel,4,1TB,"3.5""",SATA,Yes,16GB,DDR2,Optical,Redundant,1 Year,110
+PowerEdge 2900 Tower Gen II,Generation 9,Server,Tower,No,Dell,895,2,2.3GHz,Quad,Intel,4,1TB,"3.5""",SATA,Yes,16GB,DDR2,Optical,Redundant,1 Year,110
+PowerEdge 2900 Tower Gen III,Generation 9,Server,Tower,No,Dell,1195,2,2.5GHz,Quad,Intel,4,2TB,"3.5""",SATA,Yes,32GB,DDR2,Optical,Redundant,1 Year,110
+PowerEdge 2950 Gen II,Generation 9,Server,Rack - 2U,No,Dell,785,2,2.33GHz,Quad,Intel,4,146GB,"3.5""",SATA,Yes,4GB,DDR2,Optical,Redundant,1 Year,65
+PowerEdge 2950 Gen III,Generation 9,Server,Rack - 2U,No,Dell,995,2,3.0GHz,Quad,Intel,4,1TB,"3.5""",SATA,Yes,16GB,DDR2,Optical,Redundant,1 Year,65
+PowerEdge SC1435,Generation 9,Server,Rack - 1U,No,Dell,325,2,2.4GHz,Quad,AMD,2,146GB,"3.5""",SAS,None,4GB,DDR2,Optical,Single,1 Year,35
+PowerVault MD1000 15 x 2TB,,Storage,,Yes,Dell,2250,,,,,15,2TB,"3.5""",SATA,,,,,,1 Year,100
+PowerVault MD3000i,,Storage,,No,Dell,4995,,,,,15,1TB,"3.5""",SATA,,,,,,1 Year,100
+PowerVault NX1950 GIII,,Storage,,No,Dell,1025,,,,,2,2TB,"3.5""",SATA,,,,,,1 Year,45
+StorageWorks MDS600 Storage Array,,Storage,,No,HP,28500,,,,,70,4TB,"3.5""",SATA,,,,,,3 Year,
+Optiplex 7010,,Workstation,,No,Dell,588,1,3.3GHz,Quad,Intel,1,250GB,"3.5""",SATA,None,4GB,DDR2,Optical,Single,1 Year,20
+Optiplex 7010 Workstation,,Workstation,,No,Dell,595,1,3.7GHz,Quad,Intel,1,500GB,"3.5""",SATA,None,8GB,DDR3,Optical,Single,None,20
+Optiplex 980 Workstation,,Workstation,,No,Dell,575,1,3.2GHz,Quad,Intel,1,500GB,"3.5""",SATA,None,4GB,DDR3,Optical,Single,None,20
+Optiplex 990 SFF,,Workstation,,No,Dell,395,1,3.1GHz,Quad,Intel,1,250GB,"3.5""",SATA,None,4GB,DDR2,Optical,Single,1 Year,15
+Precision 390 Workstation,,Workstation,,No,Dell,355,1,2.13GHz,Dual,Intel,2,250GB,"3.5""",SATA,None,4GB,DDR2,Optical,Single,90 Day,40
+Precision 490 Workstation,,Workstation,,No,Dell,445,2,2.66GHz,Quad,Intel,2,250GB,"3.5""",SATA,None,4GB,DDR2,Optical,Single,1 Year,45
+Precision 690,,Workstation,,No,Dell,585,2,2.66GHz,Quad,Intel,2,250GB,"3.5""",SATA,Yes,4GB,DDR2,Optical,Single,1 Year,65
+Precision T3400,,Workstation,,No,Dell,325,1,2.66GHz,Dual,Intel,1,500GB,"3.5""",SATA,None,4GB,DDR2,Optical,Single,None,45
+Precision T3500,,Workstation,,No,Dell,335,1,2.66GHz,Quad,Intel,1,500GB,"3.5""",SATA,None,4GB,DDR2,Optical,Single,None,45
+Precision T5400,,Workstation,,No,Dell,399,1,2.5GHz,Quad,Intel,1,500GB,"3.5""",SATA,None,4GB,DDR2,Optical,Single,None,45
+Precision T5500,,Workstation,,No,Dell,419,2,2.13GHz,Quad,Intel,1,500GB,"3.5""",SATA,None,8GB,DDR2,Optical,Single,None,45
+Precision T7400,,Workstation,,No,Dell,550,2,3.0GHz,Quad,Intel,1,1TB,"3.5""",SATA,None,8GB,DDR2,Optical,Single,None,60
+Precision T7500,,Workstation,,No,Dell,575,1,2.66GHz,Six,Intel,1,1TB,"3.5""",SATA,None,8GB,DDR2,Optical,Single,None,60
+Workstation and monitor Bundle x 10,,Workstation,,Yes,Dell,1995,1,2.66GHz,Single,Intel,1,80GB,"3.5""",SATA,None,1GB,DDR2,Optical,Single,90 Day,30
+Z420 Workstation,,Workstation,,No,HP,1650,1,3.6GHz,Quad,Intel,2,2TB,"3.5""",SATA,None,8GB,DDR3,Optical,Single,1 Year,40
+Z600 Workstation,,Workstation,,No,HP,950,2,2.66GHz,Six,Intel,2,1TB,"3.5""",SATA,None,12GB,DDR3,Optical,Single,1 Year,50
+Z620 Workstation,,Workstation,,No,HP,3445,1,2.4GHz,Quad,Intel,1,1TB,"3.5""",SATA,None,12GB,DDR3,Optical,Single,1 Year,50
+Z800 Workstation,,Workstation,,Yes,HP,925,1,2.9GHz,Six,Intel,1,1TB,"3.5""",SATA,None,12GB,DDR3,Optical,Single,1 Year,60
+Z820 Workstation,,Workstation,,No,HP,2250,2,2.0GHz,Six,Intel,1,160GB,"3.5""",SATA,None,12GB,DDR3,Optical,Single,None,50
+Proliant ML350 G6,G6,Server,Tower,No,HP,1495,2,2.66GHz,Six,Intel,2,2TB,"3.5""",SATA,Yes,32GB,DDR3,Optical,Redundant,1 Year,65
